@@ -7,5 +7,5 @@ i am in master
 
 doing changes on remote repository 
 
-
+new changes to master
 here are some changes
