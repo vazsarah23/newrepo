@@ -3,4 +3,6 @@ hiiii
 hello
 
 i have merged master to branch
-i am in branch
+i am in master
+
+doing changes on remote repository 
