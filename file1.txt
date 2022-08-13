@@ -2,7 +2,7 @@ hiiii
 
 hello
 
-conflicticts
+changes
 i am in master
 
 doing changes on remote repository 
