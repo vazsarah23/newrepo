@@ -6,3 +6,6 @@ i have merged master to branch
 i am in master
 
 doing changes on remote repository 
+
+
+here are some changes
