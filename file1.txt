@@ -2,10 +2,10 @@ hiiii
 
 hello
 
-i have merged master to branch
+conflicticts
 i am in master
 
 doing changes on remote repository 
 
-new changes to master
+new changes to master 
 here are some changes
