@@ -1,3 +1,6 @@
 hiiii
 
 hello
+
+i have merged master to branch
+i am in branch
